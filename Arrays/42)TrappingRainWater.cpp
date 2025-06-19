@@ -1,3 +1,9 @@
+/*
+    The rainwater trapping problem asks how much water can be stored given heights of blocks.
+    The solution requires you to store left and right maximum values, the minimum of which
+    is the potiential water that can be stored.
+*/
+
 #include <vector>
 
 class Solution {
